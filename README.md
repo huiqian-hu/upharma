@@ -105,11 +105,11 @@ To use your own data:
 If you use this code, please cite:
 
 ```bibtex
-@article{upharma2025,
+@article{μpharma2025,
   title={μPharma: A Microfluidic AI-driven Pharmacotyping Platform for 
          Single-cell Drug Sensitivity Prediction in Leukemia},
   author={Hu, Huiqian and Ng, Alphonsus H. C. and Lu, Yue},
-  journal={[Journal Name]},
+  journal={[Med]},
   year={2025}
 }
 ```
